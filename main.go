@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("------------PROGRAM PARKIR-----------------")
 	jam := 0
 	var totaljam, total int
 
