@@ -12,7 +12,7 @@ func main() {
 		totaljam += jam
 
 	}
-	total = 5000 + (totaljam-1)*3000
+	total = 5000 + (totaljam-1)*2000
 	fmt.Println("Jumlah jam parkir: ", totaljam)
 	fmt.Println("Total bayar: ", total)
 
